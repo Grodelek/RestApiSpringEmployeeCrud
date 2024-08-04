@@ -19,7 +19,7 @@ public class Employee {
     private String email;
 
     public Employee() {
-    }
+    } 
 
     public Employee(String first_name, String last_name, String email) {
         this.first_name = first_name;
